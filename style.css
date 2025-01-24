@@ -7,6 +7,11 @@
     --dsalmon:#51312d;
 }
 
+@font-face {
+    font-family: nueMachina;
+    src: url(./NeueMachina-Light);
+}
+
 body{
     transition: background-color ease-out .5s;
 }
